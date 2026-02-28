@@ -1,0 +1,9 @@
+r_resource_div.sql
+r_item_div.sql
+r_item_source_div.sql
+r_resource.sql
+r_item.sql
+r_item_data_format.sql
+r_food_2020.sql
+c_item_has_resource.sql
+c_item_related_food.sql
